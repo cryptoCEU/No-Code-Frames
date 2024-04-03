@@ -13,39 +13,8 @@ Stargaze Studio es una dApp para crear y administrar colecciones de NFT en Starg
 
 * carpeta con imagenes formato jpeg
 * carpeta con metadatos formato json
-* carpeta coleccion completa AI
-* archivo csv para realizar airdrop
-* archivo txt con billeteras whitelist
-* PDF información coleccion AI
 
 ### Enlaces utiles 
 
 * [Stargaze Studio TESTNET](https://studio.publicawesome.dev/collections/create/)
 * [Stargaze Studio MAINNET](https://studio.stargaze.zone/)
-
-graph LR
-    subgraph Blockchain
-        id[Farcaster Contracts]
-    end
-
-subgraph Message Graph
-    id---hub1[<center>Farcaster Hub</center>]
-    id---hub2[<center>Farcaster Hub</center>]
-end
-
-hub1---app1[<center>Server</center>]
-hub2---app2[<center>Desktop Client</center>]
-hub2---app3[<center>Mobile Client</center>]
-
-subgraph App3
-  app1-.-client1(Desktop Client)
-  app1-.-client2(Mobile Client)
-end
-
-subgraph App2
-    app2
-end
-
-subgraph App1
-  app3
-end
