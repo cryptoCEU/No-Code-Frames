@@ -3,7 +3,7 @@
 FARCASTER WORKSHOP: CREACION DE NO-CODE FRAMES
 ======
 
-En este repositorio podemos encontrar diferentes recursos de ejemplo para poder realizar el taller de creación de colecciones NFT con Stargaze Studio. Se proporcionan varias imagenes de prueba, asi como sus respectivos metadatos. 
+Workshop donde analizaremos el fenómeno de los Frames en Farcaster y sus diferentes casos de uso y aplicaciones. Veremos desde herramientas hasta aplicaciones No-code que permiten la creacion de Frames sin conocimientos de programación. Orientado a personas de negocio, comunicación y redes sociales. 
 
 ## Farcaster
 
