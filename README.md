@@ -1,4 +1,4 @@
-<img title="a title" alt="Alt text" width="480" src="https://4266274253-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FSInMUrk5zXO1wiVbvasJ%2Fuploads%2FcZIK4ksJSZhdW0cAzM2y%2Fstargaze_logo_800.svg?alt=media&token=60d1324d-f844-4aa6-a86e-daa212634380">
+<img title="a title" alt="Alt text" width="480" src="https://raw.githubusercontent.com/cryptoCEU/No-Code-Frames/main/HEADER.png">
 
 FARCASTER WORKSHOP: CREACION DE NO-CODE FRAMES
 ======
