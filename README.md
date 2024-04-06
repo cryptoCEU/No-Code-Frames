@@ -15,12 +15,14 @@ Con el objetivo de ptogreso, al final de cada sesión se realizar una entrega de
 
 <img title="a title" alt="Alt text" width="500" src="https://raw.githubusercontent.com/cryptoCEU/No-Code-Frames/main/ALL-POAPs.png">
 
-### Contenido 
+### SESIONES 
 
-* carpeta con imagenes formato jpeg
-* carpeta con metadatos formato json
+* Sesión 1.0()
+* Sesión 2.0
+* Sesión 3.0
 
 ### Enlaces utiles 
 
-* [Stargaze Studio TESTNET](https://studio.publicawesome.dev/collections/create/)
-* [Stargaze Studio MAINNET](https://studio.stargaze.zone/)
+* [Farcaster Prototcol](https://www.farcaster.xyz/)
+* * [Farcaster Prototcol](https://www.farcaster.xyz/)
+  * 
