@@ -13,7 +13,7 @@ Este workshop se trata de una serie de sesiones donde trataremos con mayor profu
 
 Con el objetivo de ptogreso, al final de cada sesión se realizar una entrega de POAPs para los asistentes. Una vez concluidas todas las sesiones, aquellos asistenes que hayan minteado todos los POAPs y cumplan con los requisitos podrán entrar en un sorteo de XXXX $DEGEN, ademas de poder mintar en enxlcusiva el POAP Bagde que certifica la finalizacion del curso.
 
-<img title="a title" alt="Alt text" width="500" src="https://raw.githubusercontent.com/cryptoCEU/No-Code-Frames/main/ALL-POAPs.png">
+<img title="a title" alt="Alt text" width="500" src="https://raw.githubusercontent.com/cryptoCEU/No-Code-Frames/main/img/ALL-POAPs.png">
 
 ### SESIONES 
 
