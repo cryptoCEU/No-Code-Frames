@@ -3,7 +3,7 @@
 FARCASTER WORKSHOP: CREACION DE NO-CODE FRAMES
 ======
 
-## INtroducción
+## Introducción
 
 Workshop donde analizaremos el fenómeno de los Frames en Farcaster asi como sus distintos casos de uso y aplicaciones. aprenderemos a user herramientas y aplicaciones No-code que permiten la creacion de Frames sin conocimientos de programación. 
 
